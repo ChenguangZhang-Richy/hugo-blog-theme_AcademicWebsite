@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Materials Science and Engineering
+  - course: Ph.D in Materials Science and Engineering
     institution: Nanyang Technological University
     year: present
-  - course: MEng in Materials Science and NanoEngineering
+  - course: M.Eng in Materials Science and NanoEngineering
     institution: Rice University, USA
     year: 2021
-  - course: BEng in Materials Science and Engineering
+  - course: B.Eng in Materials Science and Engineering
     institution: Nanjing University of Science and Technology, PRC
     year: 2018
 
@@ -44,13 +44,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:zcgntu65@gmail.com 
+#    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+#    link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+#    link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
