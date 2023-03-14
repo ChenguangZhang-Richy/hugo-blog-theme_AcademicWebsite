@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Welcome to Chenguang's personal page! # Website name
-baseURL: 'https://scholar.google.com/citations?user=trO7ddsAAAAJ&hl=en&authuser=1' # Website URL
+baseURL: 'https://scholar.google.com/citations?user=trO7ddsAAAAJ&hl=en&authuser=1/' # Website URL
 
 ############################
 ## PAGE OPTIONS
