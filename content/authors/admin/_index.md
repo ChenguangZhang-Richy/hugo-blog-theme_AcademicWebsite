@@ -18,7 +18,7 @@ organizations:
     url: 'https://kedarh.wixsite.com/nanotransport/group-members'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Nanotechnology, solid-state synthesis and thermoelectric field.
 
 #interests:
 #- Artificial Intelligence
