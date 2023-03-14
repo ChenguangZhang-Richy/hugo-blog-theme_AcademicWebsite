@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Nanotechnology, solid-state synthesis and thermoelectric field.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Nanotechnology
+- Solid-state synthesis
+- Thermoelectric materials
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Materials Science and Engineering
+    institution: Nanyang Technological University
+    year: present
+  - course: MEng in Materials Science and NanoEngineering
+    institution: Rice University, USA
+    year: 2021
+  - course: BEng in Materials Science and Engineering
+    institution: Nanjing University of Science and Technology, PRC
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
