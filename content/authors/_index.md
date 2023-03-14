@@ -4,6 +4,6 @@
  
   render: always
 
-    render: never
+    render: always
     list: always
 ---
