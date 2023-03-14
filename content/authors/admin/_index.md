@@ -67,10 +67,10 @@ social:
 #email: ""
 ---
 
-Chenguang ZHANG is currently a PhD student under 
+Chenguang ZHANG is currently a PhD student under The Hip Laboratory @Nanyang Technological University. His research interests include Solid-state Synthesis, Nanotechnology and Thermoelectric materials. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 orgnizations:
   -name:Dr. Kedar Hippalgaonkar @ NTU
   url:'https://scholar.google.com/citations?hl=en&user=xaUJEWAAAAAJ'
-. His research interests include Solid-state Synthesis, Nanotechnology and Thermoelectric materials. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
