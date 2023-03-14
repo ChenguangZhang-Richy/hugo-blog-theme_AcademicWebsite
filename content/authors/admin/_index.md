@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Chenguang ZHANG, Richy (张晨光)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: PhD @NTU
 
 # Status emoji
 status:
@@ -14,8 +14,8 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
-    url: ''
+  - name: The Hip Laboratory @Nanyang Technological University
+    url: 'https://kedarh.wixsite.com/nanotransport/group-members'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
